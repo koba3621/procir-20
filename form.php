@@ -14,7 +14,7 @@ if (isset($_POST['name']) && $_POST['name'] !== '') {
 <title>form</title>
 </head>
 <body>
-<h1>gitになれるための適当なファイルです。</h1>
+<h1>gitに慣れるための適当なファイルです。</h1>
 <form action="" method="post">
 <label for="name">名前：</label>
 <input type="text" name="name" id="name" required>

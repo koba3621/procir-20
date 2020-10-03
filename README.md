@@ -1,1 +1,1 @@
-Push Success!
+Git, GitHubになれるための練習用のレポジトリになります。

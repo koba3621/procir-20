@@ -8,7 +8,7 @@ if (isset($_POST['name']) && $_POST['name'] !== '') {
 }
 ?>
 <!DOCTYPE html>
-<html lang-"ja">
+<html lang="ja">
 <head>
 <meta charset="UTF-8">
 <title>form</title>

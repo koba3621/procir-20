@@ -14,7 +14,7 @@ if (!isset($_SESSION['name'])) {
 </head>
 <body>
 <h1>git practice</h1>
-<p>こんにちは、<?php echo htmlspecialchars($_SESSION['name'], ENT_QUOTES, 'UTF-8'); ?></p>
+<p>こんにちは、<span style="font-size: bold"><?php echo htmlspecialchars($_SESSION['name'], ENT_QUOTES, 'UTF-8'); ?></span>さん</p>
 <div><a href="praise.php">気分を上げに行きましょう！</a></div>
 </body>
 </html>
